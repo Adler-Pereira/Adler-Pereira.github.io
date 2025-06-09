@@ -206,5 +206,37 @@
     "ano": 1985,
     "capa": "https://via.placeholder.com/200x300?text=O+Conto+da+Aia",
     "editora": "Rocco"
+  },
+  {
+    "codigo": "00027",
+    "autor": "Italo Calvino",
+    "titulo": "Se um Viajante numa Noite de Inverno",
+    "ano": 1979,
+    "capa": "https://via.placeholder.com/200x300?text=Se+um+Viajante+numa+Noite+de+Inverno",
+    "editora": "Companhia das Letras"
+  },
+  {
+    "codigo": "00028",
+    "autor": "Virginia Woolf",
+    "titulo": "Mrs. Dalloway",
+    "ano": 1925,
+    "capa": "https://via.placeholder.com/200x300?text=Mrs.+Dalloway",
+    "editora": "Penguin"
+  },
+  {
+    "codigo": "00029",
+    "autor": "Ernest Hemingway",
+    "titulo": "O Velho e o Mar",
+    "ano": 1952,
+    "capa": "https://via.placeholder.com/200x300?text=O+Velho+e+o+Mar",
+    "editora": "Bertrand Brasil"
+  },
+  {
+    "codigo": "00030",
+    "autor": "Herman Melville",
+    "titulo": "Moby Dick",
+    "ano": 1851,
+    "capa": "https://via.placeholder.com/200x300?text=Moby+Dick",
+    "editora": "Principis"
   }
 ]
